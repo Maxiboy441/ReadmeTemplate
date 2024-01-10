@@ -45,7 +45,7 @@ Specify the license under which your project is distributed. For example, you ca
 ## Authors
 
 - [Maximilian Huber (Maxiboy441)](https://github.com/Maxiboy441)
-  [![Support me on ko-fi](https://img.shields.io/badge/Support%20on-Ko--fi-%23FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/maxiboy441)
+  [![Support me on ko-fi](https://img.shields.io/badge/Support%20on-Ko--fi-%23FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/maxiboy44)
 - [Contributor Name](https://github.com/contributor-username) - [Support contributor on ko-fi](https://ko-fi.com/contributor-username)
 - ...
 
