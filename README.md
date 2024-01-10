@@ -39,7 +39,7 @@ Explain how to use your project. Provide examples, code snippets, or screenshots
 
 ## License
 
-Specify the license under which your project is distributed. For example, you can use the [MIT License](LICENSE.md) or any other license that suits your project.
+Specify the license under which your project is distributed. For example, you can use the [MIT License](LICENSE) or any other license that suits your project.
 
 
 ## Authors
